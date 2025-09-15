@@ -44,11 +44,11 @@ It creates a go.mod file like this:
 module github.com/your-username/your-repo-name
 
 go 1.21
-
 )
 
 
-**3. Docker Build Workflow (docker-build.yml)**
+
+****3. Docker Build Workflow (docker-build.yml)****
 ->Trigger: Runs on push only if:
 ->Dockerfile changes
 ->Files inside app/ change
