@@ -44,6 +44,7 @@ It creates a go.mod file like this:
 module github.com/your-username/your-repo-name
 
 go 1.21
+```
 )
 
 
